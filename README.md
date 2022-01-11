@@ -10,6 +10,8 @@
 <a href="https://instagram.com/entrysquad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entrysquad" height="30" width="40" /></a>
 <a href="https://t.me/overexcited" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="entrysquad" height="30" width="40" /></a>
 </p>
+<a href="https://tellonym.me/az3o" target="blank"><img align="center" src="https://instagram.fbeg5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/41563005_344998066241734_1016337773612761088_n.jpg?_nc_ht=instagram.fbeg5-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=--UmMSHwkrAAX8W4PgB&edm=ALbqBD0BAAAA&ccb=7-4&oh=00_AT9scnbLnHVf-6sDAFkM4_tYv83VAuNVOdb9xFcy_fG1SQ&oe=61E533F4&_nc_sid=9a90d6" alt="entrysquad" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
