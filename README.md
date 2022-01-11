@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/entrysquad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entrysquad" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/697398661788729356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2gQEg5B97n" height="30" width="40" /></a>
+<a href="https://t.me/overexcited" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="entrysquad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
