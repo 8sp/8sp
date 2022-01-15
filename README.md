@@ -1,5 +1,5 @@
 
-<h2 align="center">__Stats__</h2>
+<h2 align="center">Lynch Statistic</h2>
 <p align="center">
 <table>
   <tr>
