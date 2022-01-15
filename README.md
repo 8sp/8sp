@@ -1,3 +1,19 @@
+
+<h2 align="center">Stats</h2>
+<p align="center">
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=o4z&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4z&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+</table>
+</p>
+
+
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
   
 <h1 align="center">Welcome I'm Lynch</h1>
@@ -18,25 +34,7 @@
   
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
  
-<h2 align="center">Stats</h2>
-<a href="https://github.com/slow">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=o4z" alt="Profile Views Count">
-  </p>
-</a>
 
-<p align="center">
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=o4z&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4z&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
-</p>
 
 
 
