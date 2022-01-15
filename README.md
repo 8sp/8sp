@@ -19,9 +19,9 @@
 <table>
   <tr>
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=77h7&label=Profile%20views&color=0e75b6&style=flat" alt="xncee" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=o4z&label=Profile%20views&color=0e75b6&style=flat" alt="o4z" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/l7up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entrysquad" height="30" width="40" /></a>
 <a href="https://t.me/overexcited" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="entrysquad" height="30" width="40" /></a>
