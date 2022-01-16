@@ -10,7 +10,7 @@
     </td>
   </img>
   <tr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4z&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o4z&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="Hassan-Al-Achek" /></p>"
   </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">
