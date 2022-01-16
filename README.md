@@ -4,6 +4,8 @@
 <p align="center">
 <table>
   <tr>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=o4z&label=Profile%20views&color=0e75b6&style=flat" alt="o4z" /> </p>
+    
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical" />
     </td>
@@ -11,8 +13,6 @@
   <tr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4z&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
      </td>
-    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=o4z&label=Profile%20views&color=0e75b6&style=flat" alt="o4z" /> </p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
