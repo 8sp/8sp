@@ -7,12 +7,8 @@
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4z&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-    </td>
-  </tr>
-</table>
-</p>
+ ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Soud69&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
 
 <h3 align="center">A Simple Python Programmer and Web-Developer</h3>
 <p align="center">
