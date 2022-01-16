@@ -4,10 +4,11 @@
 <p align="center">
 <table>
   <tr>
+    
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=o4z&label=Profile%20views&color=0e75b6&style=flat" alt="o4z" /> </p>
     
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical"
     </td>
 <table>
   <tr>
