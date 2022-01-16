@@ -19,7 +19,7 @@
 <table>
   <tr>
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=o4z&label=Profile%20views&color=0e75b6&style=flat" alt="o4z" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=solo&label=Profile%20views&color=0e75b6&style=flat" alt="o4z" /> </p>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
