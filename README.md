@@ -10,8 +10,10 @@
     </td>
   </img>
   <tr>
+  <tr>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=o4z&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="o4z" /></p>
-    <tr>
+    </tr>
+      
   </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">
