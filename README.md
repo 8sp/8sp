@@ -7,7 +7,7 @@
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical" />
     </td>
- ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Soud69&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soud69&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
 
 
 <h3 align="center">A Simple Python Programmer and Web-Developer</h3>
