@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img src="![Stats](https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical" />
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4z&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
