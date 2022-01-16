@@ -8,7 +8,6 @@
      <td align="center" style="padding=0;width=50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical"
     </td>
-<table>
   <tr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4z&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
   </tr>
