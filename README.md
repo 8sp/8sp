@@ -11,8 +11,7 @@
 <table>
   <tr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o4z&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
- 
-
+  </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/l7up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entrysquad" height="30" width="40" /></a>
