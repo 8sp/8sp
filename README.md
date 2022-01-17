@@ -10,10 +10,8 @@
     </td>
   </img>
   <tr>
-  <td>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=o4z&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="o4z" /></p> 
   </tr>
-  </td>
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://instagram.com/l7up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entrysquad" height="30" width="40" /></a>
