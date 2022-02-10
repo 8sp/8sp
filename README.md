@@ -5,7 +5,6 @@
 <table>
   <tr>
      <p align="center"> <img src="https://komarev.com/ghpvc/?username=o4z&label=Profile%20views&color=0e75b6&style=flat" alt="o4z"/> </p>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=o4z&theme=onedark&row=1&column=5" alt="o4z" /></a> </p>
      <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical"
     </td>
