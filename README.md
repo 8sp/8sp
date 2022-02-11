@@ -10,7 +10,7 @@
     </td>
   </img>
   <tr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=o4z&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="o4z" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=8sp&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="o4z" /></p> 
   </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">
