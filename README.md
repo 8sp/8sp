@@ -1,12 +1,12 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
   
-<h1 align="center">0xLynch</h1>
+<h1 align="center">Lynch</h1>
 <p align="center">
 <table>
   <tr>
      <p align="center"> <img src="https://komarev.com/ghpvc/?username=o4z&label=Profile%20views&color=0e75b6&style=flat" alt="o4z"/> </p>
      <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=o4z&show_icons=true&theme=radical"
+      <img src="https://github-readme-stats.vercel.app/api?username=8sp&show_icons=true&theme=radical"
     </td>
   </img>
   <tr>
