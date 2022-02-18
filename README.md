@@ -1,6 +1,6 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
   
-<h1 align="center">Lynch</h1>
+<h1 align="center">Lynch, AKA Null</h1>
 <p align="center">
 <table>
   <tr>
@@ -14,7 +14,7 @@
   </tr>
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/l7up" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entrysquad" height="30" width="40" /></a>
+<a href="https://instagram.com/entrysquad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entrysquad" height="30" width="40" /></a>
 <a href="https://t.me/overexcited" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="entrysquad" height="30" width="40" /></a>
 
 
@@ -25,7 +25,7 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="cplusplus" width="40" height="40" align="left"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" align="left"/> </a> 
 <a href="https://www.javascript.com/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="bash" width="40" height="40" align="left"/> </a>
-  <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+ <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
 
