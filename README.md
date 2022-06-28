@@ -5,7 +5,7 @@
 - I am a **Pythoneer** and a **Desktop App Developer**. 
 - I ~like~ love **coding**, **software engineering** and **gaming**.
 - I mostly **code random programs to help people online** and **solve different challanges**.
-- I am currently working as a **Desktopa Developer** at **PathOr Pvt. Ltd**.
+- I am currently working as a **Desktop Developer** at **Zelda**.
 - I'm familiar with web-development, desktop application development, malware analysis and I'm exploring more.
 - I ~like~ am obsessed with **history**.
 
