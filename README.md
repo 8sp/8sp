@@ -1,39 +1,27 @@
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
-  
-<h1 align="center">Null</h1>
-<p align="center">
-<table>
-  <tr>
-     <p align="center"> <img src="https://komarev.com/ghpvc/?username=o4z&label=Profile%20views&color=0e75b6&style=flat" alt="o4z"/> </p>
-     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=8sp&show_icons=true&theme=radical"
-    </td>
-  </img>
-  <tr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=8sp&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="o4z" /></p> 
-  </tr>
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://instagram.com/entrysquad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entrysquad" height="30" width="40" /></a>
-<a href="https://t.me/overexcited" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="entrysquad" height="30" width="40" /></a>
+### I am Null
 
+<h3># Aboutme</h3>
 
+- I am a **Pythoneer** and a **Desktop App Developer**. 
+- I ~like~ love **coding**, **software engineering** and **gaming**.
+- I mostly **code random programs to solve XYZ problems** and **solve different reversing challanges**.
+- I am currently working as a **Desktopa Developer** at **PathOr Pvt. Ltd**.
+- I'm familiar with web-development, desktop application development, malware analysis and I'm exploring more.
+- I ~like~ am obsessed with **history**.
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40 "height="40" align="left"/> </a>
-</p>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="cplusplus" width="40" height="40" align="left"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" align="left"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" alt="bash" width="40" height="40" align="left"/> </a>
- <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<h3># Social Links</h3>
 
+<a href="https://t.me/overexcited" target="_blank">Telegram</a>, <a href="https://discordapp.com/users/853999967563153408" target="_blank">Discord</a>, <a href="https://nikk-0x11.medium.com" target="_blank">Medium</a>, <a href="https://www.instagram.com/in/nikhil-dhiman-b81326211/" target="_blank">Instagram</a>, <a 
 
+<h3># Github Stats</h3>
 
-  
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3"><div align="center">
- 
+<div align="center">
 
+| Top Languages |  Github Stats |
+|:-------------:|:--------------:|
+|  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8sp&layout=compact&theme=github_dark) | ![Anurag's github stats](https://github-readme-streak-stats.herokuapp.com?user=8sp&theme=tokyonight_duo&hide_border=false&date_format=j%20M%5B%20Y%5D) |
 
+</div>
 
 
 
