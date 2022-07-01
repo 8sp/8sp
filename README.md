@@ -11,7 +11,7 @@
 
 <h3># Social Links</h3>
 
-<a href="https://t.me/overexcited" target="_blank">Telegram</a>, <a href="https://discordapp.com/users/853999967563153408" target="_blank">Discord</a>, <a href="https://nikk-0x11.medium.com" target="_blank">Medium</a>, <a href="https://www.instagram.com/in/nikhil-dhiman-b81326211/" target="_blank">Instagram</a>
+<a href="https://t.me/overexcited" target="_blank">Telegram</a>, <a href="https://discordapp.com/users/853999967563153408" target="_blank">Discord</a>, <a href="https://www.instagram.com/in/nikhil-dhiman-b81326211/" target="_blank">Instagram</a>
 
 <h3># Github Stats</h3>
 
